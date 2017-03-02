@@ -1,2 +1,2 @@
 # XC-calc-C
-Računalo preleta jedrilca napisano u C jeziku.
+Računalo preleta jedrilica napisano u C jeziku.
